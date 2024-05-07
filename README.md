@@ -2,7 +2,7 @@
 A group assignment of food ordering system in C language
 
 # Project Scope
-Our program wuld start by prompting user to select whether to add item into menu or proceed to order.
+Our program would start by prompting user to select whether to add item into menu or proceed to order.
 
 If user select not to add item into menu, they would need to restart the program to add as we think that any 
 restaurant would add new menu at the beginning of the day.
